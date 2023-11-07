@@ -1,7 +1,7 @@
 
 <div align="center"> <h1 align="center"> Hi There! My Name is Daya 👋 </h1> </div>
 <div align="center"> <b>Aspiring Data Analyst<b>
-<div align="center"> <b>with experience using the following skills</b>
+<div align="center"> <b>with experience using the following</b>
 
 <p></p>
 <div align="center"> <h1 align="center">  DATA ANALYSIS TOOLS  </h1> </div>
