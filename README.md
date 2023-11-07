@@ -4,7 +4,7 @@
 
 <p></p>
 <div align="center"> <b>experienced in using the following</b>
-<div align="center"> <h1 align="center">  DATA ANALYSIS TOOLS  </h1> </div>
+<div align="center"> <h1 align="center"> DATA ANALYSIS TOOLS  </h1> </div>
 
 <p align="center">
 <a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
