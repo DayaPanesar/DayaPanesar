@@ -1,9 +1,9 @@
 
-<div align="center"> <h1 align="center"> Hi There! My Name is Daya 👋 </h1> </div>
-<div align="center"> <b>Aspiring Data Analyst<b>
-<div align="center"> <b>with experience using the following</b>
+![Blue Modern Gradient Technology LinkedIn Banner](https://github.com/DayaPanesar/DayaPanesar/assets/150025934/5f429fbd-ef14-415d-a3f7-969fd2b54cd5)
+
 
 <p></p>
+<div align="center"> <b>experienced in using the following</b>
 <div align="center"> <h1 align="center">  DATA ANALYSIS TOOLS  </h1> </div>
 
 <p align="center">
